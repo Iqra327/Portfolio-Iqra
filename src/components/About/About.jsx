@@ -7,7 +7,7 @@ const About = () => {
       className='section'
     >
       <div className='container'>
-        <div className='bg-zinc-800/50 p-7 rounded-2xl md:p-12 reveal-up'>
+        <div className='bg-zinc-800/50 p-7 rounded-2xl md:p-12'>
           <p className='text-zinc-300 md:mb-8 md:text-xl'>
           Hello! I'm Iqra Rasheed, a passionate Software Engineer and Front-end Developer with a keen interest in building responsive and user-friendly web applications. I specialize in <span className='font-extrabold'>HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, and React.js</span>.
           <br/>

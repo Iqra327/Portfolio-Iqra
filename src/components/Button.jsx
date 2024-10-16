@@ -50,7 +50,7 @@ const ButtonPrimary = ({
   }
 }
 
-ButtonPrimary.protoTypes = {
+ButtonPrimary.propTypes = {
   label: PropTypes.string.isRequired,
   href: PropTypes.string,
   target: PropTypes.string,
@@ -106,7 +106,7 @@ const ButtonOutline = ({
   }
 }
 
-ButtonOutline.protoTypes = {
+ButtonOutline.propTypes = {
   label: PropTypes.string.isRequired,
   href: PropTypes.string,
   target: PropTypes.string,

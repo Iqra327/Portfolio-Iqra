@@ -32,6 +32,6 @@ export const socials = [
   },
   {
     label: "Twitter X",
-    href: "https://x.com/codewithsadee_",
+    href: "https://x.com/iqrarasheed",
   },
 ];

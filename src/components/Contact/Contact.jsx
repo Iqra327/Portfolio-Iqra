@@ -43,7 +43,7 @@ const Contact = () => {
             <div className="mb-4">
               <label 
                 htmlFor="name"
-                className='label reveal-up'
+                className='label'
               >
                 Name
               </label>
@@ -55,14 +55,14 @@ const Contact = () => {
                 autoComplete='name'
                 required
                 placeholder='Enter Name'
-                className="text-field reveal-up" 
+                className="text-field" 
               />
             </div>
 
             <div className="mb-4">
               <label 
                 htmlFor="email"
-                className='label reveal-up'
+                className='label'
               >
                 Email
               </label>
@@ -74,14 +74,14 @@ const Contact = () => {
                 autoComplete='email'
                 required
                 placeholder='Enter Email'
-                className="text-field reveal-up" 
+                className="text-field" 
               />
             </div>
 
             <div className="mb-4">
               <label 
                 htmlFor="message"
-                className='label reveal-up'
+                className='label'
               >
                 Message
               </label>
@@ -91,13 +91,13 @@ const Contact = () => {
                 id="message"
                 placeholder='Enter Message'
                 required
-                className='text-field resize-y min-h-32 max-h-80 reveal-up'
+                className='text-field resize-y min-h-32 max-h-80'
               ></textarea>
             </div>
 
             <button 
               type="submit" 
-              className="btn btn-primary [&]:max-w-full w-full justify-center reveal-up"
+              className="btn btn-primary [&]:max-w-full w-full justify-center"
             >
               Submit
             </button>
