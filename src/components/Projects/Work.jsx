@@ -32,7 +32,7 @@ const Work = () => {
         {
           selectedCategory && (
             <button 
-              className="bg-sky-300 text-center font-bold items-center flex text-zinc-700 rounded-md px-2 py-2 mb-5"
+              className="bg-sky-300 text-center font-bold items-center flex text-zinc-700 rounded-md px-2 pe-3 py-2 mb-5"
               onClick={() => setSelectedCategory(null)}
             >
               <span 

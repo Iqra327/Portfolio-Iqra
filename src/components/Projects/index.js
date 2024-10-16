@@ -159,6 +159,13 @@ export const reactProjects = [
     github: "https://github.com/Iqra327/Chat-App"
   },
   {
+    imgSrc: "/react-projects/formBuilder.png",
+    title: "Form Builder",
+    tags: ["Full Stack", "React", "Typescript", "Prisma"],
+    projectLink: "https://form-builder-fawn.vercel.app/",
+    github: "https://github.com/Iqra327/FormBuilder"
+  },
+  {
     imgSrc: "/react-projects/saas-page.png",
     title: "SaaS Landing Page",
     tags: ["Tailwind CSS", "React scroll", "clsx"],
@@ -171,6 +178,13 @@ export const reactProjects = [
     tags: ["React", "PokeAPI"],
     projectLink: "https://pokemon-website-3vk5m8ar4-iqra-rasheeds-projects.vercel.app/",
     github: "https://github.com/Iqra327/pokemon-website"
+  },
+  {
+    imgSrc: "/react-projects/human-detector.png",
+    title: "Human Detector",
+    tags: ["Next.js", "Tensorflow", "ShadcnUI"],
+    projectLink: "https://human-detection-ten.vercel.app/",
+    github: "https://github.com/Iqra327/Human-Detection"
   },
   {
     imgSrc: "/react-projects/crypto-dashboard.png",
