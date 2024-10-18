@@ -41,7 +41,7 @@ const Hero = () => {
             <ButtonPrimary
               label='Download Resume' 
               icon='download'
-              href = "/public/resume/iqra-resume.pdf"
+              href = "/resume/iqra-resume.pdf"
             />
 
             <ButtonOutline
