@@ -145,6 +145,13 @@ export const reactProjects = [
     github: "https://github.com/Iqra327/React-Practice-Projects/tree/master/contact-app"
   },
   {
+    imgSrc: "/react-projects/crud-rtk.png",
+    title: "CRUD App",
+    tags: ["React","Redux Toolkit", "React router dom"],
+    projectLink: "https://crud-app-rtk.vercel.app/",
+    github: "https://github.com/Iqra327/CRUD-App-RTK"
+  },
+  {
     imgSrc: "/react-projects/nike-website.png",
     title: "Nike Website",
     tags: ["React", "Tailwind CSS"],

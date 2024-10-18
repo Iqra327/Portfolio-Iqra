@@ -64,7 +64,7 @@ ButtonPrimary.propTypes = {
 
 const ButtonOutline = ({
   href,
-  target = '_self',
+  target = '_blank',
   label,
   icon,
   classes
