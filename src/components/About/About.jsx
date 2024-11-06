@@ -11,7 +11,7 @@ const About = () => {
           <p className='text-zinc-300 md:mb-8 md:text-xl'>
           Hello! I'm Iqra Rasheed, a passionate Software Engineer and Front-end Developer with a keen interest in building responsive and user-friendly web applications. I specialize in <span className='font-extrabold'>HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, and React.js</span>.
           <br/>
-          Currently, I am expanding my skill set to include Next js, aiming to become a proficient Full Stack Developer. I'm excited about the opportunities this transition brings, allowing me to create full-stack applications and enhance user experiences from both ends.
+          Currently, I am expanding my skill set to include Next js and Mern Stack, aiming to become a proficient Full Stack Developer. I'm excited about the opportunities this transition brings, allowing me to create full-stack applications and enhance user experiences from both ends.
           </p>
         </div>
       </div>
